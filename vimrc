@@ -111,4 +111,4 @@ set number
 " Fix paste bug triggered by the above inoremaps
 set t_BE=
 " Use new regular expression engine
-114 set re=0
+set re=0
